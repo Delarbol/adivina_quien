@@ -1,5 +1,3 @@
-Claro, parcero. Te dejo un `README.md` listo para pegar en el repositorio.
-
 # Juego: Adivina Quién
 
 ## Descripción general
